@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cae0011f-1bff-400c-ae9f-028042692250/deploy-status)](https://app.netlify.com/sites/dark-mode-2020/deploys)
+
+https://dark-mode-2020.netlify.com
+
 # Module Project: Composing Stateful Logic - Dark Mode
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored Form management in React. You learned what stateful logic is, how to build custom hooks, how to compose multiple hooks together, and how to use mocks and spies in testing. In your project you will demonstrate proficiency of these subjects and principles by creating an application using each of these.
